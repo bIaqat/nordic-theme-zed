@@ -1,6 +1,6 @@
 id = "nordic-theme"
 name = "Nordic Theme"
-version = "0.5.1"
+version = "0.5.2"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "Nordic theme for Zed"
